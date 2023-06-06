@@ -1,0 +1,17 @@
+.slide {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.hide {
+  display: none;
+}
+
+button {
+  width: 100px;
+  height: 50px
+}
+
