@@ -26,7 +26,11 @@
 			#nav, #footer {
 				background-color: #efefef;
 				padding: 0.5em 0;}
-			#feature, .article {
+            #home, .article {
+				height: 15em;
+				margin-bottom: 1em;
+				background-color: #efefef;}
+			#about, .article {
 				height: 10em;
 				margin-bottom: 1em;
 				background-color: #efefef;}
